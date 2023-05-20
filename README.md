@@ -1,6 +1,23 @@
 # API-Testing-on-Herokuapp
 I have done API testing on **API-Testing-on-Herokuapp (https://restful-booker.herokuapp.com).**
 
+Here are two Reports Links:
+
+  1.[Herokuapp Project Report](https://drive.google.com/file/d/1ZT-dkROC-3_qpvbqxHrJ66DzwISYo4ej/view?usp=share_link)
+  
+  2.[Newman Run Report](https://drive.google.com/file/d/1YtUExJIwLwnDCw-cl-icrTnDL1ATEZb4/view?usp=share_link)
+
+## Report is generated
+
+![1](https://github.com/muhsinarifa/API-Testing-on-Herokuapp/assets/44992957/b890412e-4aa6-43d6-9b09-65309c4330b3)
+
+![2](https://github.com/muhsinarifa/API-Testing-on-Herokuapp/assets/44992957/8560fe88-8a88-487e-9a93-c8c4d92a148f)
+
+![1](https://github.com/muhsinarifa/API-Testing-on-Herokuapp/assets/44992957/14a701de-dea0-4caa-a529-b42e15994ba8)
+
+![2](https://github.com/muhsinarifa/API-Testing-on-Herokuapp/assets/44992957/abaed3b7-1228-4030-816c-1c44761b9d4c)
+
+
 ## Adding Booking Details
 
 Adding Booking Details use POST method for adding booking information.
@@ -71,21 +88,6 @@ Using Environment Values in all method. Here are some images below:
 
 ![3](https://github.com/muhsinarifa/API-Testing-on-Herokuapp/assets/44992957/9d9d12c2-2767-40ce-8d2f-c2f93ce54e8c)
 
-## Report is generated
-
-![1](https://github.com/muhsinarifa/API-Testing-on-Herokuapp/assets/44992957/b890412e-4aa6-43d6-9b09-65309c4330b3)
-
-![2](https://github.com/muhsinarifa/API-Testing-on-Herokuapp/assets/44992957/8560fe88-8a88-487e-9a93-c8c4d92a148f)
-
-![1](https://github.com/muhsinarifa/API-Testing-on-Herokuapp/assets/44992957/14a701de-dea0-4caa-a529-b42e15994ba8)
-
-![2](https://github.com/muhsinarifa/API-Testing-on-Herokuapp/assets/44992957/abaed3b7-1228-4030-816c-1c44761b9d4c)
-
-Here are two Reports Links:
-
-  1.[Herokuapp Project Report](https://drive.google.com/file/d/1ZT-dkROC-3_qpvbqxHrJ66DzwISYo4ej/view?usp=share_link)
-  
-  2.[Newman Run Report](https://drive.google.com/file/d/1YtUExJIwLwnDCw-cl-icrTnDL1ATEZb4/view?usp=share_link)
   
   Thanks for reading!
   
