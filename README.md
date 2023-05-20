@@ -35,7 +35,7 @@ Adding token value into headers section and deleting booking detail using DELETE
 
 ![del token](https://github.com/muhsinarifa/API-Testing-on-Herokuapp/assets/44992957/7fafb4fc-bada-4b30-98bc-2156a99e19c5)
 
-## Using Environments Values
+## Using Environment Values
 
 Using Environments Values in all method. Here are some images below:
 
