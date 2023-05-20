@@ -1,0 +1,7 @@
+newman run Herokuapp.postman_collection.json -e herokuappENV.postman_environment.json
+
+
+report generate:
+newman run Herokuapp.postman_collection.json -e herokuappENV.postman_environment.json -r cli,html
+
+newman run Herokuapp.postman_collection.json -e herokuappENV.postman_environment.json -r cli,htmlextra
