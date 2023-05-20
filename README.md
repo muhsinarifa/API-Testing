@@ -37,7 +37,7 @@ Adding token value into headers section and deleting booking detail using DELETE
 
 ## Using Environment Values
 
-Using Environments Values in all method. Here are some images below:
+Using Environment Values in all method. Here are some images below:
 
 ![Environment](https://github.com/muhsinarifa/API-Testing-on-Herokuapp/assets/44992957/0c78a05d-1fbc-486b-883c-930fde93d02e)
 
