@@ -5,7 +5,7 @@ Here are two Reports Links:
 
   1.[Herokuapp Project Report](https://drive.google.com/file/d/1ZT-dkROC-3_qpvbqxHrJ66DzwISYo4ej/view?usp=share_link)
   
-  2.[Newman Run Report](https://drive.google.com/file/d/1YtUExJIwLwnDCw-cl-icrTnDL1ATEZb4/view?usp=share_link)
+  2.[Newman Run Report](https://drive.google.com/file/d/1ZNfqy3CJ_9lZBNHw6wL8r6VSraF-piu5/view?usp=drive_link)
 
 ## Report is generated
 
