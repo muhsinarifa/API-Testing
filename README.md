@@ -3,7 +3,7 @@ I have done API testing on **API-Testing-on-Herokuapp (https://restful-booker.he
 
 Here are two Reports Links:
 
-  1.[Herokuapp Project Report](https://drive.google.com/file/d/1ZT-dkROC-3_qpvbqxHrJ66DzwISYo4ej/view?usp=share_link(https://drive.google.com/file/d/1ZFOjuCcKNJVNGbN_zoRQS7MvxMaeoS6o/view?usp=sharing))
+  1.[Herokuapp Project Report](https://drive.google.com/file/d/1ZFOjuCcKNJVNGbN_zoRQS7MvxMaeoS6o/view?usp=sharing)
   
   2.[Newman Run Report](https://drive.google.com/file/d/1ZNfqy3CJ_9lZBNHw6wL8r6VSraF-piu5/view?usp=drive_link)
 
